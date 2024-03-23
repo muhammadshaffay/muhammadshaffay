@@ -6,13 +6,17 @@
 
 <h3 align="center">About Me</h3>
 
-- 🔭 I’m currently working on **LLMs**
+- 💼 I'm currently working as AI Intern at [Centrox AI](https://www.linkedin.com/company/centroxai)
 
-- 🌱 I’m currently learning **ReAct (Reasoning & Action)**
+- 🔭 I’m currently working on **ReAct (Reasoning & Action)**
+
+- 🌱 I’m currently learning about **Language Modeling**
 
 - 👯 I’m looking to collaborate on **Chatbots**
 
-- 📫 Reach me at **muhammad.shaffay20@gmail.com**
+- 💬 Ask me about python, nlp, llms
+
+- 📫 Mail me at **muhammad.shaffay20@gmail.com**
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
