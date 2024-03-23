@@ -15,7 +15,6 @@
 - 📫 Reach me at **muhammad.shaffay20@gmail.com**
 
 <h3 align="center">Languages and Tools</h3>
-<h3 align="left">Languages and Tools:</h3>
 <p align="center">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -44,12 +43,8 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     </a>
-    <a href="https://sklearn.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-    </a>
 </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshaffay&show_icons=true&locale=en&layout=compact" alt="muhammadshaffay" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadshaffay&show_icons=true&locale=en" alt="muhammadshaffay" /></p>
-
