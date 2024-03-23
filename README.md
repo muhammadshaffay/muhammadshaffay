@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **ReAct (Reasoning & Action)**
 
-- 🌱 I’m currently learning about **Language Modeling**
+- 🌱 I’m currently learning **Language Modeling**
 
 - 👯 I’m looking to collaborate on **Chatbots**
 
-- 💬 Ask me about python, nlp, llms
+- 💬 Ask me about **Python, NLP & LLMs**
 
 - 📫 Mail me at **muhammad.shaffay20@gmail.com**
 
