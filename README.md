@@ -10,13 +10,15 @@
 
 - 🔭 I’m currently working on **ReAct (Reasoning & Action)**
 
-- 🌱 I’m currently learning **Language Modeling**
+- 📚 I’m currently learning **Language Modeling**
 
-- 👯 I’m looking to collaborate on **Chatbots**
+- 💬 I’m looking to collaborate on **Chatbots**
 
-- 💬 Ask me about **Python, NLP & LLMs**
+- ❓ Ask me about **Python, NLP & LLMs**
 
-- 📫 Mail me at **muhammad.shaffay20@gmail.com**
+- 📩 Mail me at **muhammad.shaffay20@gmail.com**
+
+- 💻 Visit my portfolio at **https://muhammadshaffay.github.io/Portfolio** 
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
