@@ -6,7 +6,7 @@
 
 <h3 align="center">About Me</h3>
 
-- 💼 I'm currently working as AI Intern at [Centrox AI](https://www.linkedin.com/company/centroxai)
+- 💼 I'm currently working as AI/ML Engineer at [AIOapp]()
 
 - 🔭 I’m currently working on **ReAct (Reasoning & Action)**
 
