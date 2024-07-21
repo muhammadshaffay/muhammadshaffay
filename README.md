@@ -6,9 +6,9 @@
 
 <h3 align="center">About Me</h3>
 
-- 💼 I'm currently working as AI/ML Engineer at [AIOapp]()
+- 💼 I'm currently working as AI/ML Engineer at [AIOapp](https://www.aioapp.com/)
 
-- 🔭 I’m currently working on **ReAct (Reasoning & Action)**
+- 🔭 I’m currently working on **Function Calling with LLMs**
 
 - 📚 I’m currently learning **Language Modeling**
 
