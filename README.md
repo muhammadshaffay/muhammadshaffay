@@ -51,6 +51,7 @@
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadshaffay&layout=donut"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadshaffay&show_icons=true"/>
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadshaffay"/>
